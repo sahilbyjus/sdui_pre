@@ -1,3 +1,20 @@
+SDUI Dashboard
+
+since node modules are not present by default
+in terminal move to your project directory and do
+1. npm intstall
+2. npm start
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
